@@ -22,4 +22,4 @@ export const HOTEL_RATES_ENDPOINT_MAX_RATES_PER_HOTEL = 1;
 
 // This should go into an .env file but I couldn't make it read it from there during runtime,
 // it was always undefined. So I'm leaving it here for now.
-export const LITE_API_KEY = 'sand_dba62b76-9f6b-4c23-aa4d-6832212b86ca';
+export const LITE_API_KEY = '';
